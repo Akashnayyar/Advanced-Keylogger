@@ -1,0 +1,8 @@
+-------------MODULES TO INSTALL---------------
+
+1. pywin32
+2. pynput
+3. scipy
+4. requests
+5. pillow
+6. sounddevice
